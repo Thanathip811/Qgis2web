@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(241, 182, 239);
+
+}
+h1{
+    size: 18px;
+
+}
+img{
+background-color: rgb(181, 211, 238);
+}
+.mushroom{
+background-color: white;
+}
+.PurpleHeart{
+background-color: black;
+}
+.circular{
+    border-radius: 100%;
+}
+#heading{
+    color: rgb(255, 102, 0);
+}
